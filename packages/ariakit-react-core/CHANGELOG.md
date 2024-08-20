@@ -1,5 +1,10 @@
 # @ariakit/react-core
 
+## 0.4.10
+
+- Improved JSDocs.
+- Updated dependencies: `@ariakit/core@0.4.10`
+
 ## 0.4.9
 
 ### `aria-selected` on composite items

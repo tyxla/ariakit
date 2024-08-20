@@ -1,5 +1,10 @@
 # @ariakit/react
 
+## 0.4.10
+
+- Improved JSDocs.
+- Updated dependencies: `@ariakit/react-core@0.4.10`
+
 ## 0.4.9
 
 ### New `useStoreState` hook
